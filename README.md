@@ -22,7 +22,7 @@ Front end:
 Hard Skils:
 
 ✅ HTML | CSS
-✅ Javascript | Angular 
+✅ Javascript | React.js
 ✅ GIT | GitHub
 
 Soft Skils:
